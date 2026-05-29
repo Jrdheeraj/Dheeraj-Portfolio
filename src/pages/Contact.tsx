@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
 
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz6_hmNogiRhIAkAdfWU9q0wQb2WdEvswPCTHCd9U-giehtMTgKcmZq2NsQES-XYuxd/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwmiAYeVU-PX05mHtFJuiMh1X18p5uY9ZXHIClfckVYzeIR6o_wiNyQF9yu6BWz1PM/exec";
 
 const Contact = () => {
   const [formData, setFormData] = useState({

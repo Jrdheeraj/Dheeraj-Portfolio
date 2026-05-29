@@ -35,8 +35,8 @@ This is a personal portfolio website built with React 18 and TypeScript, featuri
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MAHESHPPAI/portfolio-website.git
-   cd Portfolio-website
+   git https://github.com/Jrdheeraj/Dheeraj-Portfolio.git
+   cd Dheeraj-Portfolio
    ```
 
 2. **Install dependencies**

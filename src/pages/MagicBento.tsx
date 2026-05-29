@@ -87,8 +87,8 @@ const MagicBento = () => {
               className="bg-[#f4f4f5] text-black rounded-[2rem] p-10 flex flex-col justify-between min-h-[400px] border border-gray-200 cursor-pointer transition-colors duration-300 hover:bg-white"
             >
               <div>
-                <div className="w-16 h-16 bg-white rounded-full flex items-center justify-center shadow-[0_2px_10px_rgba(0,0,0,0.08)] mb-8 overflow-hidden">
-                  <img src="/Scaler-Logo.webp" alt="Scaler" className="w-full h-full object-contain p-2" />
+                <div className="w-32 h-16 bg-white rounded-2xl flex items-center justify-center shadow-[0_2px_10px_rgba(0,0,0,0.08)] mb-8 overflow-hidden">
+                  <img src="/Scaler-Logo.jpg" alt="Scaler" className="w-full h-full object-contain p-3" />
                 </div>
                 <p className="text-gray-600 leading-relaxed text-[15px] md:text-lg font-medium max-w-2xl">
                   Earned Python Programming Certificate from Scalar, gaining hands-on experience in building machine learning models and understanding real-world AI applications.
