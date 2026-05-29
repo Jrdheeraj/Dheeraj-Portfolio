@@ -55,19 +55,3 @@ This is a personal portfolio website built with React 18 and TypeScript, featuri
    ```bash
    npm run build
    ```
-
----
-
-## 📬 Contact
-
-Let's build something intelligent.
-
-- **Email**: [maheshpailinked@gmail.com](mailto:maheshpailinked@gmail.com)
-- **Instagram**: [_.maheshhhhhh._](https://www.instagram.com/_.maheshhhhhh._/)
-- **Availability**: Currently available for freelance and full-time opportunities.
-
----
-
-<p align="center">
-  MADE BY MAHESH ® 2026
-</p>
